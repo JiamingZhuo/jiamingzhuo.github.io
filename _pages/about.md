@@ -23,7 +23,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 | Research Area | Topic |
 | -------- | -------- |
-| 🔆 Graph Learning  | Graph Self-supervised Learning, Graph Transformer |
+| 🔆 Graph Machine Learning  | Graph Self-supervised Learning, Graph Transformer |
 | 🔆 Bioinformatics | Spatial Transcriptomics Analysis |
 
 # 🏫 Education
@@ -31,7 +31,6 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - *2022.09 - *, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Integrated Master-Ph.D. Program)
 - *2019.09 - *, M.Sc. in Computer Science and Technology, Hebei University of Technology, Tianjin, China. 
 - *2017.09 - 2019.06*, B.Eng. in Computer Science and Technology, Linyi University, Shandong, China.
-
 
 # 📝 Publication
 
@@ -55,16 +54,16 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - *2025.08 - *, Visiting Student, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore.
 
 
-# 🎖 Others
+#  🔦 Others
 
-**Award**
+**🎖 Award**
 
 - Top 10 Academic Stars Award, Hebei University of Technology, 2024.
 - Academic Stars Award, School of Artificial Intelligence, Hebei University of Technology, 2024.
 - First-class Scholarships for Postgraduate Studies, Hebei University of Technology, 2022-2023, 2023-2024, 2024-2025.
 - Notable Reviewers, ICLR, 2025
 
-**Reviewer**
+** 👀 Reviewer**
 
 - International Conference on Learning Representations (ICLR), 2025.
 - Conference on Neural Information Processing Systems (NeurIPS), 2024-2025.
