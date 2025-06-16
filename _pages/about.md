@@ -61,8 +61,8 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - Top 10 Academic Stars Award, Hebei University of Technology, 2024.
 - Academic Stars Award, School of Artificial Intelligence, Hebei University of Technology, 2024.
 - First-class Scholarships for Postgraduate Studies, Hebei University of Technology, 2022-2023, 2023-2024, 2024-2025.
-- Notable Reviewers, ICLR, 2025
-...
+- Notable Reviewers, ICLR, 2025.
+- ...
 
 **👀 PC Member**
 
@@ -71,4 +71,4 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - International Conference on Machine Learning (ICML), 2024-2025.
 - International World Wide Web Conference (WWW), 2025.
 - ACM International Conference on Multimedia (MM), 2025.
-...
+- ...
