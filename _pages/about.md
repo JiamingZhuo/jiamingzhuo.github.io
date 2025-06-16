@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD Candidate at Hebei University of Technology, supervised by Prof. [Liang Yang](https://yangliang.github.io/). 
+Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial Intelligence, Hebei University of Technology, supervised by Prof. [Liang Yang (杨亮)](https://yangliang.github.io/). 
 
 <!-- My research interest includes (audio-only or audio-visual) speech processing: enhancement, extraction and seperation; speaker processing: recognition, diarization, active speaker detection and anti-spoofing. I also work in self-supervised learning. I have published more than 20 papers at the top international AI conferences and journals such as TASLP, TMM, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -50,7 +50,7 @@ I am a PhD Candidate at Hebei University of Technology, supervised by Prof. [Lia
 
 ---
 
-- [Do We Really Need Message Passing in Brain Network Modeling?](https://jiamingzhuo.github.io/), Liang Yang, Yuwei Liu, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, <font color="red">Spotlight</font>, 2025. 
+- [Do We Really Need Message Passing in Brain Network Modeling?](https://jiamingzhuo.github.io/), Liang Yang, Yuwei Liu, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, <font color="green">Spotlight</font>, 2025. 
 - [Universal Graph Self-Contrastive Learning](https://jiamingzhuo.github.io/). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang, **IJCAI**, 2025.
 - [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo (Corresponding Author)**, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao, **AAAI**, <font color="red">Oral</font>, 2025. 
 - [Disentangled Graph Spectral Domain Adaptation](https://jiamingzhuo.github.io/), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo, **ICML**, 2025.
@@ -64,16 +64,16 @@ I am a PhD Candidate at Hebei University of Technology, supervised by Prof. [Lia
 - *Cross-modal Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=MFV-KSD)](https://github.com/TaoRuijie/MFV-KSD)
 - *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d) -->
 
-<!-- # 👔 Internship and Visiting Experience
+# 👔 Internship and Visiting Experience
 
-- *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK. -->
+- *2025.08 - *, Visiting Student, , Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore.
+
 
 # 🎖 Others
 
 **Award**
 
-- Top Ten Academic Stars Award, Hebei University of Technology, 2024.
+- Top 10 Academic Stars Award, Hebei University of Technology, 2024.
 - Academic Stars Award, School of Artificial Intelligence, Hebei University of Technology, 2024.
 - First-class Scholarships for Postgraduate Studies, Hebei University of Technology, 2022-2023, 2023-2024, 2024-2025.
 - Notable Reviewers, ICLR, 2025

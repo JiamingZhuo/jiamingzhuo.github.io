@@ -12,8 +12,8 @@ main:
   - title: "Publication"
     url: "/#-publication"
     
-  - title: "Code"
-    url: "/#-open-source-code"
+  # - title: "Code"
+  #   url: "/#-open-source-code"
     
   - title: "Internship"
     url: "/#-internship-and-visiting-experience"
