@@ -25,8 +25,8 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 | Research Area | Topic |
 | -------- | -------- |
-| Graph Learning  | Graph Self-supervised Learning, Graph Transformer |
-| Bioinformatics | Spatial Transcriptomics Analysis |
+| 🔆 Graph Learning  | Graph Self-supervised Learning, Graph Transformer |
+| 🔆 Bioinformatics | Spatial Transcriptomics Analysis |
 
 # 🏫 Education
 
@@ -41,19 +41,19 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 # 📝 Publication
 
-- [DUALFormer: Dual Graph Transformer](https://openreview.net/pdf?id=4v4RcAODj9). **Jiaming Zhuo**, Yuwei Liu, Yintong Lu, Ziyi Ma, Kun Fu, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang, **ICLR**, 2025.
-- [Unified Graph Augmentations for Generalized Contrastive Learning on Graphs](https://proceedings.neurips.cc/paper_files/paper/2024/file/41efc12982eca6f8bb5e48dc3a84b843-Paper-Conference.pdf). **Jiaming Zhuo**, Yintong Lu, Hui Ning, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang, **NeurIPS**, 2024.
+- [DUALFormer: Dual Graph Transformer](https://openreview.net/pdf?id=4v4RcAODj9). **Jiaming Zhuo**, Yuwei Liu, Yintong Lu, Ziyi Ma, Kun Fu, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang. **ICLR**, 2025.
+- [Unified Graph Augmentations for Generalized Contrastive Learning on Graphs](https://proceedings.neurips.cc/paper_files/paper/2024/file/41efc12982eca6f8bb5e48dc3a84b843-Paper-Conference.pdf). **Jiaming Zhuo**, Yintong Lu, Hui Ning, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang. **NeurIPS**, 2024.
 - [Improving Graph Contrastive Learning via Adaptive Positive Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657133). **Jiaming Zhuo**, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang, Zhen Wang, Xiaochun Cao, Liang Yang. **CVPR**, 2024. 
 <!-- - , [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD) -->
 - [Graph Contrastive Learning Reimagined: Exploring Universality](https://dl.acm.org/doi/10.1145/3589334.3645480). **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang. **WWW**, 2024.
-- [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang, Xiaochun Cao, Liang Yang, **MM**, <font color="red">Oral</font>, 2023.
+- [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang, Xiaochun Cao, Liang Yang. **MM**, <font color="red">Oral</font>, 2023.
 
----
+******
 
 - [Do We Really Need Message Passing in Brain Network Modeling?](https://jiamingzhuo.github.io/), Liang Yang, Yuwei Liu, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, <font color="green">Spotlight</font>, 2025. 
-- [Universal Graph Self-Contrastive Learning](https://jiamingzhuo.github.io/). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang, **IJCAI**, 2025.
-- [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo (Corresponding Author)**, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao, **AAAI**, <font color="red">Oral</font>, 2025. 
-- [Disentangled Graph Spectral Domain Adaptation](https://jiamingzhuo.github.io/), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo, **ICML**, 2025.
+- [Universal Graph Self-Contrastive Learning](https://jiamingzhuo.github.io/). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025.
+- [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo (Corresponding Author)**, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, <font color="red">Oral</font>, 2025. 
+- [Disentangled Graph Spectral Domain Adaptation](https://jiamingzhuo.github.io/), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo. **ICML**, 2025.
 
 
 <!-- # 💻 Open Source Code

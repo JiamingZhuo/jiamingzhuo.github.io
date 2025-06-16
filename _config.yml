@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiaming Zhuo(禚佳明)"
-description              : "Ph.D. Candidate, Hebei University of Technology, Tianjin, China"
+title                    : "Jiaming Zhuo (禚佳明)"
+description              : "**Jiaming Zhuo 禚佳明, Ph.D. Candidate**"
 repository               : "jiamingzhuo.github.io"
 google_scholar_stats_use_cdn : true
 
