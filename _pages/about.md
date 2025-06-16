@@ -52,7 +52,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 # 👔 Internship and Visiting Experience
 
-- *2025.08 - *, Visiting Student, , Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore.
+- *2025.08 - *, Visiting Student, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore.
 
 
 # 🎖 Others
