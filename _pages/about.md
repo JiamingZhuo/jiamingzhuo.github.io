@@ -63,7 +63,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - First-class Scholarships for Postgraduate Studies, Hebei University of Technology, 2022-2023, 2023-2024, 2024-2025.
 - Notable Reviewers, ICLR, 2025
 
-** 👀 Reviewer**
+**👀 Reviewer**
 
 - International Conference on Learning Representations (ICLR), 2025.
 - Conference on Neural Information Processing Systems (NeurIPS), 2024-2025.
