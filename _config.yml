@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaming Zhuo(禚佳明)"
-description              : "Phd Student at Hebei University of Technology, Tianjin"
+description              : "Ph.D. Candidate at Hebei Province Key Laboratory of Big Data Calculation, School of Artificial Intelligence, Hebei University of Technology, Tianjin"
 repository               : "jiamingzhuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"tao-ruijie-38137516a"
+  #linkedin         : #"tao-ruijie-38137516a"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : #"https://space.bilibili.com/194466325?spm_id_from=333.1007.0.0"
+  #youtube          : #"https://space.bilibili.com/194466325?spm_id_from=333.1007.0.0"
   wikipedia        :
 
 
