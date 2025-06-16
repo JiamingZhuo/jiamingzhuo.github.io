@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial Intelligence, Hebei University of Technology, supervised by Prof. [Liang Yang (杨亮)](https://yangliang.github.io/). 
+Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial Intelligence, Hebei University of Technology, supervised by Prof. [Liang Yang (杨亮)](https://yangliang.github.io/). I am passionate about exploring the cutting-edge intersections of artificial intelligence and various fields. My work focuses on developing advanced Graph Neural Networks (GNNs) and their applications in biomedical informatics, aiming to address real-world challenges with practical solutions. I am keen on collaborating with fellow researchers to drive meaningful advancements. Looking forward to connecting with like-minded individuals 🍻.
 
 # 📜 Research Area
 
@@ -28,8 +28,8 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 # 🏫 Education
 
-- *2022.09 - *, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Integrated Master-Ph.D. Program)
-- *2019.09 - *, M.Sc. in Computer Science and Technology, Hebei University of Technology, Tianjin, China. 
+- *2022.09 - Present*, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Integrated Master-Ph.D. Program)
+- *2019.09 - Present*, M.Sc. in Computer Science and Technology, Hebei University of Technology, Tianjin, China. 
 - *2017.09 - 2019.06*, B.Eng. in Computer Science and Technology, Linyi University, Shandong, China.
 
 # 📝 Publication
@@ -39,13 +39,13 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - [Improving Graph Contrastive Learning via Adaptive Positive Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657133). **Jiaming Zhuo**, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang, Zhen Wang, Xiaochun Cao, Liang Yang. **CVPR**, 2024. 
 <!-- - , [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD) -->
 - [Graph Contrastive Learning Reimagined: Exploring Universality](https://dl.acm.org/doi/10.1145/3589334.3645480). **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang. **WWW**, 2024.
-- [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang, Xiaochun Cao, Liang Yang. **MM**, <font color="red">Oral</font>, 2023.
+- [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang, Xiaochun Cao, Liang Yang. **MM**, 2023, <font color="red">Oral</font>.
 
 ******
 
-- [Do We Really Need Message Passing in Brain Network Modeling?](https://jiamingzhuo.github.io/), Liang Yang, Yuwei Liu, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, <font color="blue">Spotlight</font>, 2025. 
+- [Do We Really Need Message Passing in Brain Network Modeling?](https://jiamingzhuo.github.io/), Liang Yang, Yuwei Liu, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, 2025, <font color="blue">Spotlight</font>. 
 - [Universal Graph Self-Contrastive Learning](https://jiamingzhuo.github.io/). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo (Corresponding Author)**, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025.
-- [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo (Corresponding Author)**, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, <font color="red">Oral</font>, 2025. 
+- [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo (Corresponding Author)**, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, 2025, <font color="red">Oral</font>. 
 - [Disentangled Graph Spectral Domain Adaptation](https://jiamingzhuo.github.io/), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo. **ICML**, 2025.
 
 
@@ -62,12 +62,13 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 - Academic Stars Award, School of Artificial Intelligence, Hebei University of Technology, 2024.
 - First-class Scholarships for Postgraduate Studies, Hebei University of Technology, 2022-2023, 2023-2024, 2024-2025.
 - Notable Reviewers, ICLR, 2025
+...
 
-**👀 Reviewer**
+**👀 PC Member**
 
-- International Conference on Learning Representations (ICLR), 2025.
+- PC Member: PC International Conference on Learning Representations (ICLR), 2025.
 - Conference on Neural Information Processing Systems (NeurIPS), 2024-2025.
 - International Conference on Machine Learning (ICML), 2024-2025.
 - International World Wide Web Conference (WWW), 2025.
 - ACM International Conference on Multimedia (MM), 2025.
-
+...
