@@ -17,20 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial Intelligence, Hebei University of Technology, supervised by Prof. [Liang Yang (杨亮)](https://yangliang.github.io/). I am passionate about exploring the cutting-edge intersections of artificial intelligence and various fields. My work focuses on developing advanced Graph Neural Networks (GNNs) and their applications in biomedical informatics, aiming to address real-world challenges with practical solutions. I am keen on collaborating with fellow researchers to drive meaningful advancements. Looking forward to connecting with like-minded individuals 🍻.
+Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial Intelligence, Hebei University of Technology, supervised by Prof. [Liang Yang (杨亮)](https://yangliang.github.io/). I am passionate about exploring the cutting-edge intersections of artificial intelligence and various fields. My work focuses on developing advanced Graph Neural Networks (GNNs) and their applications to address real-world challenges. Looking forward to connecting with like-minded individuals 🍻.
 
 # 📜 Research Area
 
 | Research Area | Topic |
 | -------- | -------- |
 | 🔆 Graph Machine Learning  | Graph Self-supervised Learning, Graph Transformer |
-| 🔆 Bioinformatics | Spatial Transcriptomics Analysis |
 
-# 🏫 Education
-
-- *2022.09 - Present*, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Integrated Master-Ph.D. Program)
-- *2019.09 - Present*, M.Sc. in Computer Science and Technology, Hebei University of Technology, Tianjin, China. 
-- *2017.09 - 2019.06*, B.Eng. in Computer Science and Technology, Linyi University, Shandong, China.
 
 # 📝 Publication
 
@@ -53,6 +47,12 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 - *2025.08 - *, Visiting Student, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore.
 
+# 🏫 Education
+
+- *2022.09 - Present*, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Integrated Master-Ph.D. Program)
+- *2019.09 - Present*, M.Sc. in Computer Science and Technology, Hebei University of Technology, Tianjin, China. 
+- *2017.09 - 2019.06*, B.Eng. in Computer Science and Technology, Linyi University, Shandong, China.
+
 
 #  🔦 Others
 
@@ -66,9 +66,10 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at School of Artificial 
 
 **👀 PC Member**
 
-- PC Member: PC International Conference on Learning Representations (ICLR), 2025.
+- International Conference on Learning Representations (ICLR), 2025.
 - Conference on Neural Information Processing Systems (NeurIPS), 2024-2025.
 - International Conference on Machine Learning (ICML), 2024-2025.
 - International World Wide Web Conference (WWW), 2025.
 - ACM International Conference on Multimedia (MM), 2025.
 - ...
+
