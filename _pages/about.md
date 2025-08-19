@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artificial Intelligence, Hebei University of Technology, supervised by Professor [Liang Yang (杨亮)](https://yangliang.github.io/). I am currently a visiting student at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore, working under the supervision of Principal Scientist [Fu Huazhu (付华柱)](https://hzfu.github.io/). I am passionate about exploring the cutting-edge intersections of artificial intelligence and various fields. My work focuses on developing advanced Graph Neural Networks (GNNs) and their applications to address real-world challenges. Looking forward to connecting with like-minded individuals 🍻
+Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artificial Intelligence, Hebei University of Technology, supervised by Professor [Liang Yang (杨亮)](https://yangliang.github.io/). I am currently a visiting student at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore, advised by Principal Scientist [Fu Huazhu (付华柱)](https://hzfu.github.io/). I am passionate about exploring the cutting-edge intersections of artificial intelligence and various fields. My work focuses on developing advanced Graph Neural Networks (GNNs) and their applications to address real-world challenges. Looking forward to connecting with like-minded individuals 🍻
 
 # 📜 Research Area
 
