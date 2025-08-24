@@ -48,7 +48,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 # 🏫 Education
 
-- *2022.09 - Present*, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Successive Postgraduate and Doctoral Programs of Study)
+- *2022.09 - Present*, Ph.D. in Control Science and Engineering, Hebei University of Technology, Tianjin, China. (Integrated Masters with PhD)
 - *2019.09 - 2022.09*, M.Sc. in Computer Science and Technology, Hebei University of Technology, Tianjin, China. 
 - *2017.09 - 2019.06*, B.Eng. in Computer Science and Technology, Linyi University, Shandong, China.
 
