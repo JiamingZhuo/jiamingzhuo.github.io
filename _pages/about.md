@@ -38,10 +38,10 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 ******
 
-- [Do We Really Need Message Passing in Brain Network Modeling?](https://jiamingzhuo.github.io/), Liang Yang, Yuwei Liu, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, 2025, <font color="blue">Spotlight (acceptance rate 2.6%)</font>. 
-- [Universal Graph Self-Contrastive Learning](https://jiamingzhuo.github.io/). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025. 
+- [Do We Really Need Message Passing in Brain Network Modeling?](https://openreview.net/pdf?id=KRosBwvhDx), Liang Yang, Yuwei Liu, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, 2025, <font color="blue">Spotlight (acceptance rate 2.6%)</font>. 
+- [Universal Graph Self-Contrastive Learning](https://www.ijcai.org/proceedings/2025/0393.pdf). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025. 
 - [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, 2025, <font color="red">Oral</font>. 
-- [Disentangled Graph Spectral Domain Adaptation](https://jiamingzhuo.github.io/), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo. **ICML**, 2025.
+- [Disentangled Graph Spectral Domain Adaptation](https://openreview.net/pdf?id=846O8wcn8K), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo. **ICML**, 2025.
 
 # 👔 Internship and Visiting Experience
 
@@ -65,7 +65,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 **👀 PC Member**
 
-- International Conference on Learning Representations (ICLR), 2025.
+- International Conference on Learning Representations (ICLR), 2025-2026.
 - Conference on Neural Information Processing Systems (NeurIPS), 2024-2025.
 - International Conference on Machine Learning (ICML), 2024-2025.
 - International World Wide Web Conference (WWW), 2025.
