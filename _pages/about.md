@@ -28,7 +28,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 # 📝 Publication
 
-- [UGCFormer: A Simple yet Universal Graph Cross-attention Network](https://jiamingzhuo.github.io/). **Jiaming Zhuo**, Ziyi Ma, Yintong Lu, Yuwei Liu, Kun Fu, Di Jin, Chuan Wang, Wu Wenning, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **NeurIPS**, 2025, <font color="blue">Spotlight (acceptance rate 3.2%)</font>. 
+- [A Closer Look at Graph Transformers: Cross-Aggregation and Beyond](https://jiamingzhuo.github.io/). **Jiaming Zhuo**, Ziyi Ma, Yintong Lu, Yuwei Liu, Kun Fu, Di Jin, Chuan Wang, Wu Wenning, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **NeurIPS**, 2025, <font color="blue">Spotlight (acceptance rate 3.2%)</font>. 
 - [DUALFormer: Dual Graph Transformer](https://openreview.net/pdf?id=4v4RcAODj9). **Jiaming Zhuo**, Yuwei Liu, Yintong Lu, Ziyi Ma, Kun Fu, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **ICLR**, 2025.
 - [Unified Graph Augmentations for Generalized Contrastive Learning on Graphs](https://proceedings.neurips.cc/paper_files/paper/2024/file/41efc12982eca6f8bb5e48dc3a84b843-Paper-Conference.pdf). **Jiaming Zhuo**, Yintong Lu, Hui Ning, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **NeurIPS**, 2024.
 - [Improving Graph Contrastive Learning via Adaptive Positive Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657133). **Jiaming Zhuo**, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang^{*}, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **CVPR**, 2024. 
@@ -38,9 +38,9 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 ******
 
-- [Do We Really Need Message Passing in Brain Network Modeling?](https://openreview.net/pdf?id=KRosBwvhDx), Liang Yang, Yuwei Liu, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, 2025, <font color="blue">Spotlight (acceptance rate 2.6%)</font>. 
-- [Universal Graph Self-Contrastive Learning](https://www.ijcai.org/proceedings/2025/0393.pdf). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025. 
-- [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, 2025, <font color="red">Oral</font>. 
+- [Do We Really Need Message Passing in Brain Network Modeling?](https://openreview.net/pdf?id=KRosBwvhDx), Liang Yang, Yuwei Liu, **Jiaming Zhuo** <font color="green">(Corresponding Author)</font>, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, 2025, <font color="blue">Spotlight (acceptance rate 2.6%)</font>. 
+- [Universal Graph Self-Contrastive Learning](https://www.ijcai.org/proceedings/2025/0393.pdf). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo** <font color="green">(Corresponding Author)</font>, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025. 
+- [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo** <font color="green">(Corresponding Author)</font>, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, 2025, <font color="red">Oral</font>. 
 - [Disentangled Graph Spectral Domain Adaptation](https://openreview.net/pdf?id=846O8wcn8K), Liang Yang, Xin Chen, Jiaming Zhuo, Di Jin, Chuan Wang, Xiaochun Cao, Zhen Wang, Yuanfang Guo. **ICML**, 2025.
 
 # 👔 Internship and Visiting Experience
