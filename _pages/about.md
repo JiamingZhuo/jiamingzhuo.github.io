@@ -28,13 +28,13 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 # 📝 Publication
 
-- [A Closer Look at Graph Transformers: Cross-Aggregation and Beyond](https://jiamingzhuo.github.io/). **Jiaming Zhuo**, Ziyi Ma, Yintong Lu, Yuwei Liu, Kun Fu, Di Jin, Chuan Wang, Wu Wenning, Zhen Wang, Xiaochun Cao, Liang Yang$^{*}$. **NeurIPS**, 2025, <font color="blue">Spotlight (acceptance rate 3.2%)</font>. 
-- [DUALFormer: Dual Graph Transformer](https://openreview.net/pdf?id=4v4RcAODj9). **Jiaming Zhuo**, Yuwei Liu, Yintong Lu, Ziyi Ma, Kun Fu, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang$^{*}$. **ICLR**, 2025.
-- [Unified Graph Augmentations for Generalized Contrastive Learning on Graphs](https://proceedings.neurips.cc/paper_files/paper/2024/file/41efc12982eca6f8bb5e48dc3a84b843-Paper-Conference.pdf). **Jiaming Zhuo**, Yintong Lu, Hui Ning, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang$^{*}$. **NeurIPS**, 2024.
-- [Improving Graph Contrastive Learning via Adaptive Positive Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657133). **Jiaming Zhuo**, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang$^{*}$, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **CVPR**, 2024. 
+- [A Closer Look at Graph Transformers: Cross-Aggregation and Beyond](https://jiamingzhuo.github.io/). **Jiaming Zhuo**, Ziyi Ma, Yintong Lu, Yuwei Liu, Kun Fu, Di Jin, Chuan Wang, Wu Wenning, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **NeurIPS**, 2025, <font color="blue">Spotlight (acceptance rate 3.2%)</font>. 
+- [DUALFormer: Dual Graph Transformer](https://openreview.net/pdf?id=4v4RcAODj9). **Jiaming Zhuo**, Yuwei Liu, Yintong Lu, Ziyi Ma, Kun Fu, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **ICLR**, 2025.
+- [Unified Graph Augmentations for Generalized Contrastive Learning on Graphs](https://proceedings.neurips.cc/paper_files/paper/2024/file/41efc12982eca6f8bb5e48dc3a84b843-Paper-Conference.pdf). **Jiaming Zhuo**, Yintong Lu, Hui Ning, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **NeurIPS**, 2024.
+- [Improving Graph Contrastive Learning via Adaptive Positive Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657133). **Jiaming Zhuo**, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang<sup>*</sup>, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **CVPR**, 2024. 
 <!-- - , [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD) -->
-- [Graph Contrastive Learning Reimagined: Exploring Universality](https://dl.acm.org/doi/10.1145/3589334.3645480). **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang$^{*}$, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang^{*}. **WWW**, 2024.
-- [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang$^{*}$, Xiaochun Cao, Liang Yang^{*}. **MM**, 2023, <font color="red">Oral</font>.
+- [Graph Contrastive Learning Reimagined: Exploring Universality](https://dl.acm.org/doi/10.1145/3589334.3645480). **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang<sup>*</sup>, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **WWW**, 2024.
+- [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang<sup>*</sup>, Xiaochun Cao, Liang Yang<sup>*</sup>. **MM**, 2023, <font color="red">Oral</font>.
 
 ******
 
