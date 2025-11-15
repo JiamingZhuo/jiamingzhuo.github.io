@@ -37,7 +37,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 - [Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs](https://dl.acm.org/doi/10.1145/3581783.3612196), **Jiaming Zhuo**, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, Chuan Wang<sup>*</sup>, Xiaochun Cao, Liang Yang<sup>*</sup>. **MM**, 2023, <font color="red">Oral</font>.
 
 ******
-
+- [Source-Free Graph Foundation Model Adaptation via Pseudo-Source Reconstruction](https://jiamingzhuo.github.io/), Liang Yang, Hui Ning, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Ziyi Ma, Chuan Wang, Wenning Wu, Zhen Wang. **AAAI**, 2026, <font color="red">Oral</font>. 
 - [Do We Really Need Message Passing in Brain Network Modeling?](https://openreview.net/pdf?id=KRosBwvhDx), Liang Yang, Yuwei Liu, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Chuan Wang, Zhen Wang, Xiaochun Cao. **ICML**, 2025, <font color="blue">Spotlight (acceptance rate 2.6%)</font>. 
 - [Universal Graph Self-Contrastive Learning](https://www.ijcai.org/proceedings/2025/0393.pdf). Liang Yang, Yukun Cai, Hui Ning, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Di Jin, Ziyi Ma, Yuanfang Guo, Chuan Wang, Zhen Wang. **IJCAI**, 2025. 
 - [Graph Contrastive Learning with Joint Spectral Augmentation of Attribute and Topology](https://ojs.aaai.org/index.php/AAAI/article/view/35506). Liang Yang, Zhenna Li, **Jiaming Zhuo** <font color="LightSeaGreen">(Corresponding Author)</font>, Jing Liu, Ziyi Ma, Chuan Wang, Zhen Wang, Xiaochun Cao. **AAAI**, 2025, <font color="red">Oral</font>. 
