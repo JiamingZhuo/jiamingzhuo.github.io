@@ -28,7 +28,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 # 📝 Publication
 
-- [A Closer Look at Graph Transformers: Cross-Aggregation and Beyond](https://jiamingzhuo.github.io/). **Jiaming Zhuo**, Ziyi Ma, Yintong Lu, Yuwei Liu, Kun Fu, Di Jin, Chuan Wang, Wu Wenning, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **NeurIPS**, 2025, <font color="blue">Spotlight (acceptance rate 3.2%)</font>. 
+- - <font style="background-color:#1976D2;color:white;padding:2px 6px;border-radius:4px">[NeurIPS 2025 Spotlight]</font> [A Closer Look at Graph Transformers: Cross-Aggregation and Beyond](https://jiamingzhuo.github.io/). **Jiaming Zhuo**, Ziyi Ma, Yintong Lu, Yuwei Liu, Kun Fu, Di Jin, Chuan Wang, Wu Wenning, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. 2025, <font color="blue">Spotlight (acceptance rate 3.2%)</font>. 
 - [DUALFormer: Dual Graph Transformer](https://openreview.net/pdf?id=4v4RcAODj9). **Jiaming Zhuo**, Yuwei Liu, Yintong Lu, Ziyi Ma, Kun Fu, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **ICLR**, 2025.
 - [Unified Graph Augmentations for Generalized Contrastive Learning on Graphs](https://proceedings.neurips.cc/paper_files/paper/2024/file/41efc12982eca6f8bb5e48dc3a84b843-Paper-Conference.pdf). **Jiaming Zhuo**, Yintong Lu, Hui Ning, Kun Fu, Bingxin Niu, Dongxiao He, Chuan Wang, Yuanfang Guo, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **NeurIPS**, 2024.
 - [Improving Graph Contrastive Learning via Adaptive Positive Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657133). **Jiaming Zhuo**, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang<sup>*</sup>, Zhen Wang, Xiaochun Cao, Liang Yang<sup>*</sup>. **CVPR**, 2024. 
@@ -45,7 +45,7 @@ Hello! I am Jiaming Zhuo (禚佳明), a Ph.D. Candidate at the School of Artific
 
 # 👔 Internship and Visiting Experience
 
-- *2025.08 -*, Visiting Student, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (ASTAR), Singapore.
+- *2025.08 -*, Visiting Student, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore.
 
 # 🏫 Education
 
