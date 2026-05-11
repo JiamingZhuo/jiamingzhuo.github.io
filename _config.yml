@@ -7,7 +7,11 @@
 
 # Site Settings
 title                    : "Jiaming Zhuo (禚佳明)"
-description              : "<strong style='font-size: 1.2em;'>Jiaming Zhuo 禚佳明, Ph.D. Candidate</strong>"
+description              : "<strong style="font-size: 1.2em;">
+Jiaming Zhuo<br>
+禚佳明<br>
+Ph.D. Candidate
+</strong>"
 repository               : "jiamingzhuo.github.io"
 google_scholar_stats_use_cdn : true
 
