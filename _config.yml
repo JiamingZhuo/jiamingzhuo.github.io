@@ -7,11 +7,7 @@
 
 # Site Settings
 title                    : "Jiaming Zhuo (禚佳明)"
-description              : "<strong style="font-size: 1.2em;">
-Jiaming Zhuo<br>
-禚佳明<br>
-Ph.D. Candidate
-</strong>"
+description              : "<strong style='font-size: 1.2em;'>Jiaming Zhuo 禚佳明, Ph.D. Candidate</strong>"
 repository               : "jiamingzhuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiaming Zhuo"
-  avatar           : "images/my_pic.jpg"
+  avatar           : "images/my_pic.png"
   bio              : "CV"
   location         : "Tianjin"
   employer         :
